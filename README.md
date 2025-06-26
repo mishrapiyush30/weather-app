@@ -2,8 +2,7 @@
 
 A modern, responsive weather application built with React, TypeScript, and Material UI that provides real-time weather information for any city worldwide.
 
-![WeatherNow Dashboard - New Mexico](screenshots/new-mexico.png)
-![WeatherNow Dashboard - Syracuse](screenshots/syracuse.png)
+> **Note:** Screenshots will be added soon to showcase the application's interface.
 
 ## Features
 
@@ -35,7 +34,7 @@ A modern, responsive weather application built with React, TypeScript, and Mater
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/mishrapiyush30/weather-app.git
    cd weather-app
    ```
 
