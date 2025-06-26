@@ -2,7 +2,12 @@
 
 A modern, responsive weather application built with React, TypeScript, and Material UI that provides real-time weather information for any city worldwide.
 
-> **Note:** Screenshots will be added soon to showcase the application's interface.
+## Screenshots
+
+Here are screenshots of the application with its dynamic theming:
+
+![WeatherNow Dashboard - Syracuse (Cloudy Theme)](screenshots/syracuse.png)
+![WeatherNow Dashboard - New Mexico (Sunny Theme)](screenshots/new-mexico.png)
 
 ## Features
 
